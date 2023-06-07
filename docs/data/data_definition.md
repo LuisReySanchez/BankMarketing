@@ -2,22 +2,22 @@
 
 ## Origen de los datos 
 
-- Kaggle: https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing?resource=download
+- Información obtenida de Kaggle: https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing?resource=download
 
 ## Especificación de los scripts para la carga de datos
 
-- [ ] Especificar los scripts utilizados para la carga de los datos. 
+- Archivo: CargaDatos.ipynb  
+
+- Formato: csv
 
 ## Referencias a rutas o bases de datos origen y destino
 
-
-- http://dx.doi.org/10.1016/j.dss.2014.03.001.
+- Base de datos: bank-additional-full.csv
 
 ### Rutas de origen de datos
 
-- [ ] Especificar la ubicación de los archivos de origen de los datos.
-- [ ] Especificar la estructura de los archivos de origen de los datos.
-- [ ] Describir los procedimientos de transformación y limpieza de los datos.
+- BankMarketing\scripts\data_acquisition\bank-additional-full.csv
+
 
 ### Base de datos de destino
 
