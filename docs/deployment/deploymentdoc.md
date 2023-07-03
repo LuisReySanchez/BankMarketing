@@ -20,9 +20,11 @@
 
 ## Código de despliegue
 
-- **Archivo principal:** La aplicación diseñada está en el archivo *deploymentAPIs.ipynb*
+- **Archivo principal:** La aplicación diseñada está en el archivo *deploymentAPI.py*
 
-- **Rutas de acceso a los archivos:** El código puede encontrarse en *'src/nombre_paquete/deployment/deploymentAPI.ipynb'*
+- **Rutas de acceso a los archivos:** 
+<p> - Archivo despliegue:  *'src/nombre_paquete/deployment/deploymentAPI.py'*
+<p> - Archivo validacion: "scripts/training/baseline_models.ipynb" (Seccion finaL:Casos de validación con Fast API)
 
 ## Documentación del despliegue
 
@@ -35,8 +37,6 @@
 
     - *Apertura de puertos:* Por fines didacticos se ha trabajado de forma local (puerto 8000).
 
-    - Observación: En "script/training/baseline_models.ipynb" se incluye al final la sección "Casos de validación con Fast API" la cual considera un par de casos para validar la ejecución del FAST API.
-
-
+    - Observación: En "scripts/training/baseline_models.ipynb" se incluye al final la sección "Casos de validación con Fast API" la cual considera un par de casos para validar la ejecución del FAST API.
 
     
