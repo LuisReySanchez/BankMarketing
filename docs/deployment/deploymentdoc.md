@@ -31,8 +31,7 @@
 - **Instrucciones de configuración:** La mayoría de hiperparametros del modelo han sido explorados previamente y por consiguiente no se recomienda ninguna modificación sobre estos.
 
 - **Instrucciones de uso:** El despliegue del modelo se realiza con FAST API, consta de dos pasos
-    - *Despliegue del servidor:* Se pone en producción la aplicación creada, ejecutar.
-          - uvicorn deploymentAPI:app --reload
+    - *Despliegue del servidor:* Para poner en producción la aplicación creada, ejecutar: uvicorn deploymentAPI:app --reload
 
     - *Apertura de puertos:* Por fines didacticos se ha trabajado de forma local (puerto 8000).
 
