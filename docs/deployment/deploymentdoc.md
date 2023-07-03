@@ -23,8 +23,8 @@
 - **Archivo principal:** La aplicación diseñada está en el archivo *deploymentAPI.py*
 
 - **Rutas de acceso a los archivos:** 
-<p> - Archivo despliegue:  *'src/nombre_paquete/deployment/deploymentAPI.py'*
-<p> - Archivo validacion: "scripts/training/baseline_models.ipynb" (Seccion finaL:Casos de validación con Fast API)
+        <p> - Archivo despliegue:  *'src/nombre_paquete/deployment/deploymentAPI.py'*
+        <p> - Archivo validacion: "scripts/training/baseline_models.ipynb" (Seccion finaL:Casos de validación con Fast API)
 
 ## Documentación del despliegue
 
